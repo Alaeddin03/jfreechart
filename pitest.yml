@@ -1,0 +1,4 @@
+targetDir: target/pitest
+sourceDirs:
+  - "directory_to_your_project"
+testFramework: junit5
